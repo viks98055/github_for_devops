@@ -1,0 +1,18 @@
+ 3 ls
+   4 ls -l
+   5 ls
+   6 ls -l
+   7 ls -l
+   8 ls -l
+   9 ls
+  10 git init
+  11 ls -a
+  12 ls dir
+  13 git init
+  14 git status
+  15 git status
+  16 git add testuing.py
+  17 git status
+  18 git commit -m addedtesting files
+  19 git commit -m "added testing files"
+  20 git status
